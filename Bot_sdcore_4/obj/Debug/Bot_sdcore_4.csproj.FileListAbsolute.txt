@@ -1,0 +1,47 @@
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\Bot Application.dll.config
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\Bot Application.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\Bot Application.pdb
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\Autofac.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\Chronic.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\Microsoft.Bot.Builder.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\Microsoft.Bot.Connector.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\Microsoft.Rest.ClientRuntime.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\Newtonsoft.Json.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\System.Net.Http.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\System.Net.Http.Extensions.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\System.Net.Http.Formatting.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\System.Net.Http.Primitives.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\System.Security.Cryptography.Algorithms.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\System.Security.Cryptography.Encoding.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\System.Security.Cryptography.Primitives.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\System.Security.Cryptography.X509Certificates.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\System.Web.Http.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\System.Web.Http.WebHost.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\Autofac.xml
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\Microsoft.Bot.Builder.xml
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\Microsoft.Bot.Connector.xml
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\Newtonsoft.Json.xml
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\System.Net.Http.Formatting.xml
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\System.Web.Http.xml
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\System.Web.Http.WebHost.xml
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\obj\Debug\Bot_sdcore_4.csprojResolveAssemblyReference.cache
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\obj\Debug\Bot Application.dll
+C:\sinnatme\Bots\Bot_sdcore_4\Bot_sdcore_4\obj\Debug\Bot Application.pdb
